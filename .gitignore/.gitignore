@@ -1,0 +1,12 @@
+*.csproj
+*.sln
+Library/
+obj/
+Logs/
+Temp/
+.vs/
+Assets/Scripts/launcher/AssetSystem/__del/
+ProjectSettings/
+ABs/
+Assets/launcher_test_asset/
+Assets/launcher_test_asset.meta
